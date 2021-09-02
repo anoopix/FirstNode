@@ -1,5 +1,5 @@
-const myData = require("./myData.js");
-const Polygon = require("./Polygon.js");
+const myData = require("./mydata.js");
+const Polygon = require("./polygon.js");
 const _ = require("underscore");
 const http = require("http");
 
